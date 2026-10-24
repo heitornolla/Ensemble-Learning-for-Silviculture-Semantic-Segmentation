@@ -1,4 +1,10 @@
-# Semantic Segmentation for Silviculture
+# Ensemble Learning for Semantic Segmentation of Silviculture
+
+This repository contains the code accompanying the paper:
+
+> **Heitor Pavani Nolla, Fabricio Fernandes, Ester Fiorillo and Raoni Rajão.**  
+> *Assessing the Value of Temporal Information for Silviculture Mapping with Model Ensembles.*  
+> Submitted to the **XXII Simpósio Brasileiro de Sensoriamento Remoto (SBSR)**.
 
 EDA, Data Acquisition and result analysis notebooks are available in `notebooks`. Scripts for ablations can be seen in `scripts`.
 
